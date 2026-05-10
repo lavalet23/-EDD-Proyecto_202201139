@@ -1,0 +1,21 @@
+[
+    {
+        "correo": "juan.perez@example.com",
+        "contenido": "EDD no sale ;(",
+        "fecha": "27/07/2024",
+        "hora": "10:00"
+    },
+    {
+        "correo": "maria.lopez@example.com",
+        "contenido": "Hoy no ando de buen humor",
+        "fecha": "22/07/2024",
+        "hora": "12:30"
+    },
+    {
+        "correo": "carlos.rodriguez@example.com",
+        "contenido": "Tengo hambre, qué recomiendan? :)",
+        "fecha": "23/07/2024",
+        "hora": "15:45"
+    }
+
+]
